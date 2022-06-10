@@ -1,10 +1,16 @@
 {
   "name": "Cheers Pals",
   "description": "Singing  Drinking  Cheering , We are Palling.",
-  "image": "https://raw.githubusercontent.com/CheersPals/cheerspalsofficial/main/images/background.png",
+  "banner_image_url":"https://raw.githubusercontent.com/CheersPals/cheerspalsofficial/main/images/background.png",
+  "large_image_url":"https://raw.githubusercontent.com/CheersPals/cheerspalsofficial/main/images/featured.png",
+  "featured_image_url":"https://raw.githubusercontent.com/CheersPals/cheerspalsofficial/main/images/featured.png",
+  "image_url":"https://raw.githubusercontent.com/CheersPals/cheerspalsofficial/main/images/avatar.png",
   "external_link": "http://www.cheerspals.xyz",
   "seller_fee_basis_points": 690,
   "fee_recipient": "0xDc8611873fab19209f8845714a02eD17e287aB7C",
   "twitter_username":"CheersPals",
   "discord_url": "https://discord.gg/qTm5zBHUcm",
+  "display_data": {
+         "card_display_style": "contain"
+      }
 }
